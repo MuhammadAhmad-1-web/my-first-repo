@@ -4,5 +4,10 @@ This is my first Git and Github project.
 SSH authentication is working!
 
 ##Features
+
 -Advanced search functionality
 -Real-time notifications
+-User authentication system
+Secure login functionality
+-Secure login functionality
+
